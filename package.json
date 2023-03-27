@@ -1,0 +1,11 @@
+{
+  "name": "hhru-task1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
